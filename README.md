@@ -14,13 +14,13 @@
 
 ## Preview
 1.<br>
-[Home](https://github.com/ashok49473/movie-recommendation-system/blob/main/hhome.png)
+![Home](https://github.com/ashok49473/movie-recommendation-system/blob/main/hhome.png)
 <br>
 2.<br>
-[first](https://github.com/ashok49473/movie-recommendation-system/blob/main/first.png)
+![first](https://github.com/ashok49473/movie-recommendation-system/blob/main/first.png)
 <br>
 3.<br>
-[second](https://github.com/ashok49473/movie-recommendation-system/blob/main/sec.png)
+![second](https://github.com/ashok49473/movie-recommendation-system/blob/main/sec.png)
 <br>
 ##### Thank you !
 
