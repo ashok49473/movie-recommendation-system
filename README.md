@@ -4,7 +4,7 @@
 
 ## Data Source: _[tmdb-movie-metadata](https://www.kaggle.com/tmdb/tmdb-movie-metadata)_
 
-## Live Web App: _[recommendation-system-movies.com](https://recommendation-system-movies.herokuapp.com/)_
+## Live Web App: _[recommendation-system-movies.herokuapp.com](https://recommendation-system-movies.herokuapp.com/)_
 
 ## Tools & Tech:
 - Python 3.8
